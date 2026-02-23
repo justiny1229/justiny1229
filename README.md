@@ -17,7 +17,7 @@
 
   ### 🙋‍♂️ About Me
   📖&nbsp; I’m currently a **Computer Science undergraduate** at [Nanyang Technological University, Singapore (NTU)](https://www.ntu.edu.sg/). \
-  👀&nbsp; My interests lies in the world of **Artificial Intelligence**, and am passionate about Software/ML Engineer roles.&nbsp; Check out my exciting Academic Projects pinned below!
+  👀&nbsp; My interests lies in the world of **Artificial Intelligence**, and am passionate about Software/ML Engineer roles. \ Check out my exciting Academic Projects pinned below!
 
 </div>
 <br/>
