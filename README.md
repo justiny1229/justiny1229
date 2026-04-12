@@ -23,7 +23,7 @@
       <p>
         🎯 <strong>Focus:</strong> Artificial Intelligence, Machine Learning & Robotics<br/>
         💡 <strong>Architecture:</strong> Passionate about SOLID principles, OODP, and microservices.<br/>
-        🚀 <strong>Currently:</strong> Engineering robust backend systems and exploring code similarity detection.
+        🚀 <strong>Currently:</strong> building a robust facial recognition system that protects privacy and has antispoofing features.
       </p>
     </td>
     <td width="50%" valign="top" align="center">
