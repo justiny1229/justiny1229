@@ -5,8 +5,8 @@
   <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm Justin</h2>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=4000&pause=1500&color=00F0FF&center=true&width=500&height=40&lines=NTU+CS+Undergraduate;AI+%26+Robotics+Engineer;Software+%26+ML+Engineer"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=4000&pause=1500&color=000000&center=true&width=500&height=40&lines=NTU+CS+Undergraduate;AI+%26+Robotics+Engineer;Software+%26+ML+Engineer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=4000&pause=1500&color=00F0FF&center=true&width=500&height=40&lines=NTU+CS+Undergraduate;AI+%26+Robotics+Engineer;Software/ML+Engineer"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=4000&pause=1500&color=000000&center=true&width=500&height=40&lines=NTU+CS+Undergraduate;AI+%26+Robotics+Engineer;Software/ML+Engineer"/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=4000&pause=1500&color=000000&center=true&width=500&height=40&lines=NTU+CS+Undergraduate" alt="Typing SVG" />
   </picture>
 </div>
