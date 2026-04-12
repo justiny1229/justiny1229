@@ -11,14 +11,6 @@
   </picture>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=justiny1229&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&v=1" alt="justiny1229 Trophies" />
-  </a>
-</div>
-
 <hr/>
 
 <table align="center" border="0" style="border-collapse: collapse; width: 100%;">
@@ -91,15 +83,12 @@
 <br/>
 
 <div align="center">
-  <h3>⚡ GitHub Activity</h3>
-  <br/>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=justiny1229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&v=1" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justiny1229&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justiny1229&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </p>
+  <h3>🐍 GitHub Contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justiny1229/justiny1229/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justiny1229/justiny1229/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/justiny1229/justiny1229/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/><br/>
