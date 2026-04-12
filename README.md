@@ -17,7 +17,7 @@
 
   ### 🙋‍♂️ About Me
   📖&nbsp; I’m currently a **Computer Science undergraduate** at [Nanyang Technological University, Singapore (NTU)](https://www.ntu.edu.sg/). \
-  👀&nbsp; My interests lies in the world of **Artificial Intelligence**, and am passionate about Software/ML Engineer roles.
+  👀&nbsp; My interests lies in the world of **Artificial Intelligence & Robotics**, and am passionate about Software/ML Engineer roles.
 
   🚀 Check out my exciting Academic Projects pinned below!
 <br/>
@@ -30,6 +30,7 @@
   ![C Skill Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=202020)
   ![C++ Skill Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&labelColor=202020)
   ![JavaScript Skill Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=202020)
+  ![SQL Skill Badge](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=202020)
   #### Tools
   \
   ![NumPy Skill Badge](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&labelColor=202020)
