@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Justin%20Yang&fontSize=60&fontAlignY=35&animation=twinkling&desc=Transforming%20Logic%20into%20Impact&descAlignY=55&descAlign=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Justin%20Yang&fontSize=60&fontAlignY=35&animation=twinkling&desc=The%20Sky's%20The%20Limit&descAlignY=55&descAlign=55" width="100%"/>
   
   <br/><br/>
   <h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm Justin</h2>
