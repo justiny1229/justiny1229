@@ -83,6 +83,15 @@
 <br/>
 
 <div align="center">
+  <h3>⚡ GitHub Activity & Streaks</h3>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justiny1229&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
   <h3>🐍 GitHub Contributions</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justiny1229/justiny1229/output/github-contribution-grid-snake-dark.svg">
