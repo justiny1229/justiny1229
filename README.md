@@ -22,8 +22,8 @@
       </p>
       <p>
         🎯 <strong>Focus:</strong> Artificial Intelligence, Machine Learning & Robotics<br/>
-        💡 <strong>Architecture:</strong> Passionate about SOLID principles, OODP, and microservices.<br/>
-        🚀 <strong>Currently:</strong> Building a robust facial recognition system that protects privacy with anti-spoofing features.
+        💡 <strong>Architecture:</strong> Passionate about SOLID principles, OODP, and microservices<br/>
+        🚀 <strong>Currently:</strong> Building a robust facial recognition system that protects privacy with anti-spoofing features
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -69,13 +69,13 @@
   </tr>
   <tr>
     <td align="center" valign="top">
-      <p align="left" style="font-size: 13px;">Built a secure Face Recognition pipeline for an academic attendance system. Implemented secure hashing and scalable endpoint architecture.</p>
+      <p align="left" style="font-size: 13px;">Built a secure Face Recognition pipeline for an academic attendance system. Implemented secure hashing and scalable endpoint architecture</p>
     </td>
     <td align="center" valign="top">
-      <p align="left" style="font-size: 13px;">Engineered a safe ride companion app for cyclists utilizing advanced pathfinding algorithms and strictly adhering to SOLID software principles.</p>
+      <p align="left" style="font-size: 13px;">Engineered a safe ride companion app for cyclists utilizing advanced pathfinding algorithms and strictly adhering to SOLID software principles</p>
     </td>
     <td align="center" valign="top">
-      <p align="left" style="font-size: 13px;">Developed a comprehensive Build-To-Order management system leveraging robust filtering algorithms and extensive testing protocols.</p>
+      <p align="left" style="font-size: 13px;">Developed a comprehensive Build-To-Order management system leveraging robust filtering algorithms and extensive testing protocols</p>
     </td>
   </tr>
 </table>
